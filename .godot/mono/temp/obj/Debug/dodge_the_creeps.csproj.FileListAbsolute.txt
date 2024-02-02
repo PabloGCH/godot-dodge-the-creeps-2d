@@ -1,0 +1,17 @@
+/home/pgch/stuff/gamedev/dodge_the_creeps/.godot/mono/temp/bin/Debug/dodge_the_creeps.deps.json
+/home/pgch/stuff/gamedev/dodge_the_creeps/.godot/mono/temp/bin/Debug/dodge_the_creeps.runtimeconfig.json
+/home/pgch/stuff/gamedev/dodge_the_creeps/.godot/mono/temp/bin/Debug/dodge_the_creeps.dll
+/home/pgch/stuff/gamedev/dodge_the_creeps/.godot/mono/temp/bin/Debug/dodge_the_creeps.pdb
+/home/pgch/stuff/gamedev/dodge_the_creeps/.godot/mono/temp/bin/Debug/GodotSharp.dll
+/home/pgch/stuff/gamedev/dodge_the_creeps/.godot/mono/temp/bin/Debug/GodotSharpEditor.dll
+/home/pgch/stuff/gamedev/dodge_the_creeps/.godot/mono/temp/obj/Debug/dodge_the_creeps.csproj.AssemblyReference.cache
+/home/pgch/stuff/gamedev/dodge_the_creeps/.godot/mono/temp/obj/Debug/dodge_the_creeps.GeneratedMSBuildEditorConfig.editorconfig
+/home/pgch/stuff/gamedev/dodge_the_creeps/.godot/mono/temp/obj/Debug/dodge_the_creeps.AssemblyInfoInputs.cache
+/home/pgch/stuff/gamedev/dodge_the_creeps/.godot/mono/temp/obj/Debug/dodge_the_creeps.AssemblyInfo.cs
+/home/pgch/stuff/gamedev/dodge_the_creeps/.godot/mono/temp/obj/Debug/dodge_the_creeps.csproj.CoreCompileInputs.cache
+/home/pgch/stuff/gamedev/dodge_the_creeps/.godot/mono/temp/obj/Debug/dodge_the_creeps.csproj.CopyComplete
+/home/pgch/stuff/gamedev/dodge_the_creeps/.godot/mono/temp/obj/Debug/dodge_the_creeps.dll
+/home/pgch/stuff/gamedev/dodge_the_creeps/.godot/mono/temp/obj/Debug/refint/dodge_the_creeps.dll
+/home/pgch/stuff/gamedev/dodge_the_creeps/.godot/mono/temp/obj/Debug/dodge_the_creeps.pdb
+/home/pgch/stuff/gamedev/dodge_the_creeps/.godot/mono/temp/obj/Debug/dodge_the_creeps.genruntimeconfig.cache
+/home/pgch/stuff/gamedev/dodge_the_creeps/.godot/mono/temp/obj/Debug/ref/dodge_the_creeps.dll

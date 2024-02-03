@@ -1,2 +1,2 @@
-﻿44133
-/opt/godot-mono-bin/godot/Godot_v4.1.3-stable_mono_linux.x86_64
+﻿45859
+/opt/godot-mono-bin/godot/Godot_v4.2.1-stable_mono_linux.x86_64

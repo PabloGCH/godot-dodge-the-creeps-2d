@@ -1,2 +1,6 @@
-res://scenes/Player.cs
-res://scenes/Player.tscn
+res://scenes/Main/Main.tscn
+res://scenes/Main/Main.cs
+res://scenes/Player/Player.cs
+res://scenes/Mob/Mob.cs
+res://scenes/Mob/Mob.tscn
+res://scenes/Player/Player.tscn

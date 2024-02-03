@@ -15,3 +15,4 @@
 /home/pgch/stuff/gamedev/dodge_the_creeps/.godot/mono/temp/obj/Debug/dodge_the_creeps.pdb
 /home/pgch/stuff/gamedev/dodge_the_creeps/.godot/mono/temp/obj/Debug/dodge_the_creeps.genruntimeconfig.cache
 /home/pgch/stuff/gamedev/dodge_the_creeps/.godot/mono/temp/obj/Debug/ref/dodge_the_creeps.dll
+/home/pgch/stuff/gamedev/dodge_the_creeps/.godot/mono/temp/obj/Debug/dodge_the_creeps.sourcelink.json

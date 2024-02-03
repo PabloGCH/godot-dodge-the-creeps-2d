@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "cHtMx5xeLHDDhrbEHr6N+x8Ppjdpak1rGVAzg++kvEOa3iCIQ5X0veAdnpeTX3NYM2q1HAsik5A+fMohN/+z/Q==",
+  "dgSpecHash": "ED/nGtv3n+jHxC2uSpwJKVSs8TfEDr0h861/2wIPM8mIpHT4h1TdP+vr6QGnWEc4fJO8pBM0Mhm0NFHV1kc82Q==",
   "success": true,
   "projectFilePath": "/home/pgch/stuff/gamedev/dodge_the_creeps/dodge_the_creeps.csproj",
   "expectedPackageFiles": [
-    "/home/pgch/.nuget/packages/godot.sourcegenerators/4.1.3/godot.sourcegenerators.4.1.3.nupkg.sha512",
-    "/home/pgch/.nuget/packages/godotsharp/4.1.3/godotsharp.4.1.3.nupkg.sha512",
-    "/home/pgch/.nuget/packages/godotsharpeditor/4.1.3/godotsharpeditor.4.1.3.nupkg.sha512",
+    "/home/pgch/.nuget/packages/godot.sourcegenerators/4.2.1/godot.sourcegenerators.4.2.1.nupkg.sha512",
+    "/home/pgch/.nuget/packages/godotsharp/4.2.1/godotsharp.4.2.1.nupkg.sha512",
+    "/home/pgch/.nuget/packages/godotsharpeditor/4.2.1/godotsharpeditor.4.2.1.nupkg.sha512",
     "/home/pgch/.nuget/packages/microsoft.netcore.app.ref/6.0.26/microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
     "/home/pgch/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.26/microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
   ],

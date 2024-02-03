@@ -1,8 +1,8 @@
-res://scenes/Main/Main.tscn
+res://scenes/HUD/Hud.cs
 res://scenes/Main/Main.cs
-res://scenes/Player/Player.cs
 res://scenes/Mob/Mob.cs
+res://scenes/Player/Player.cs
+res://scenes/Main/Main.tscn
 res://scenes/Mob/Mob.tscn
 res://scenes/Player/Player.tscn
 res://scenes/HUD/Hud.tscn
-res://scenes/HUD/Hud.cs

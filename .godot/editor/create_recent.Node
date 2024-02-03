@@ -1,3 +1,5 @@
+AudioStreamPlayer
+ColorRect
 Timer
 Button
 Label
@@ -10,5 +12,3 @@ VisibleOnScreenNotifier2D
 CollisionShape2D
 AnimatedSprite2D
 RigidBody2D
-Sprite2D
-Area2D

@@ -10,10 +10,16 @@ public partial class Main : Node
 
     private Hud Hud;
 
+    private AudioStreamPlayer BackgroundMusic;
+
+    private AudioStreamPlayer GameOverSound;
+
     // Called when the node enters the scene tree for the first time.
     public override void _Ready()
     {
         Hud = GetNode<Hud>("HUD");
+        BackgroundMusic = GetNode<AudioStreamPlayer>("BackgroundMusic");
+        GameOverSound = GetNode<AudioStreamPlayer>("GameOverSound");
     }
 
     // Called every frame. 'delta' is the elapsed time since the previous frame.
@@ -24,11 +30,15 @@ public partial class Main : Node
         GetNode<Timer>("MobTimer").Stop();
         GetNode<Timer>("ScoreTimer").Stop();
         Hud.ShowGameOver();
+        BackgroundMusic.Stop();
+        GameOverSound.Play();
     }
 
     public void NewGame()
     {
         Score = 0;
+
+        BackgroundMusic.Play();
 
         Hud.UpdateScore(Score);
         Hud.ShowMessage("Get Ready!");

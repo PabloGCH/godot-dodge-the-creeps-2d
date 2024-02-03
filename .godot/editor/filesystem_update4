@@ -4,3 +4,5 @@ res://scenes/Player/Player.cs
 res://scenes/Mob/Mob.cs
 res://scenes/Mob/Mob.tscn
 res://scenes/Player/Player.tscn
+res://scenes/HUD/Hud.tscn
+res://scenes/HUD/Hud.cs

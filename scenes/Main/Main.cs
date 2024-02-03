@@ -8,9 +8,12 @@ public partial class Main : Node
 
     private int Score;
 
+    private Hud Hud;
+
     // Called when the node enters the scene tree for the first time.
-    public override void _Ready() {
-      NewGame();
+    public override void _Ready()
+    {
+        Hud = GetNode<Hud>("HUD");
     }
 
     // Called every frame. 'delta' is the elapsed time since the previous frame.
@@ -20,22 +23,28 @@ public partial class Main : Node
     {
         GetNode<Timer>("MobTimer").Stop();
         GetNode<Timer>("ScoreTimer").Stop();
+        Hud.ShowGameOver();
     }
 
     public void NewGame()
     {
         Score = 0;
 
+        Hud.UpdateScore(Score);
+        Hud.ShowMessage("Get Ready!");
+
         var player = GetNode<Player>("Player");
         var startPosition = GetNode<Marker2D>("StartPosition");
         player.Start(startPosition.Position);
 
+        GetTree().CallGroup("mobs", Node.MethodName.QueueFree);
         GetNode<Timer>("StartTimer").Start();
     }
 
     private void OnScoreTimerTimeout()
     {
         Score++;
+        Hud.UpdateScore(Score);
     }
 
     private void OnStartTimerTimeout()
